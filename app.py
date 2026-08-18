@@ -1667,3 +1667,4 @@ elif st.session_state['current_view'] == 'results':
 st.markdown("---")
 st.markdown("<p class='footer'>Smart Financial Recommender, Spending Analyzer & Goal Predictor</p>", unsafe_allow_html=True)
 st.markdown("<p class='team-credit'>Developed by Team Rovers</p>", unsafe_allow_html=True)
+#updated locally
